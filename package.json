@@ -1,8 +1,8 @@
 {
-  "name": "piaic-project-4",
+  "name": "piaic-project-5",
   "version": "1.0.0",
   "description": "",
-  "main": "Todo.js",
+  "main": "CurrencyConverter.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
   }
 }
