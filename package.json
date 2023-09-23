@@ -1,8 +1,8 @@
 {
-  "name": "piaic-project-5",
+  "name": "piaic-project-6",
   "version": "1.0.0",
   "description": "",
-  "main": "CurrencyConverter.js",
+  "main": "WordCount.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.11"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.3"
   }
 }
